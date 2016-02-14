@@ -1,0 +1,20 @@
+.searchContainer
+{
+	padding: 10px;
+}
+
+.searchInput
+{
+	border: 1px solid lightgray;
+
+	border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+
+	font: normal 36px FontAwesome, Helvetica, sans-serif;
+	color: gray;
+
+	width: 100%;
+
+	padding: 10px;
+}

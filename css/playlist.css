@@ -1,0 +1,39 @@
+.playlistSongContainer
+{
+	display: inline-block;
+
+	float: left;
+
+	color: white;
+
+	/*width: 30.83470249176025568260683940025046467%;*/
+
+	width: 23.125%;
+	height: 60px;
+
+	padding: 7px;
+
+	margin: 0px 5px 5px 0px;
+
+	box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.08);
+	-moz-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.08);
+	-webkit-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.08);
+
+	transition: box-shadow linear 0.2s;
+
+	overflow: hidden;
+}
+
+.playlistSongContainer:hover
+{
+	cursor: pointer;
+	
+	box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.08), 0px 0px 10px #51CBEE;
+	-moz-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.08), 0px 0px 10px #51CBEE;
+	-webkit-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.08), 0px 0px 10px #51CBEE;
+}
+
+.playlistSongContainer:active
+{
+	opacity: 0.6;
+}

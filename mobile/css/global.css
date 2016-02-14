@@ -1,0 +1,82 @@
+body
+{
+	background: #F2F2F2;
+
+	font: normal 14px FontAwesome, 'SegoeUIRegular', 'SegoeUISemilight', 'Lato', 'LatoLight', Helvetica, Arial, sans-serif;
+
+	margin: 0px;
+	padding-bottom: 75px;
+}
+
+*, *:focus
+{
+	outline: none;
+}
+
+a
+{
+	text-decoration: none;
+	color: inherit;
+}
+
+input[type=radio]
+{
+	vertical-align: middle;
+}
+
+.hidden
+{
+	display: none;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.italic
+{
+	font-style: italic;
+}
+
+.underline
+{
+	text-decoration: underline;
+}
+
+.icon
+{
+	font-family: FontAwesome;
+}
+
+.center
+{
+	text-align: center;
+}
+
+.left
+{
+	text-align: left;
+}
+
+.right
+{
+	text-align: right;
+}
+
+.justify
+{
+	text-align: justify;
+}
+
+.noselect
+{
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+}
+
+.inlineBlock
+{
+	display: inline-block;
+}

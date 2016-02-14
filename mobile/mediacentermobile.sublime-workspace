@@ -1,0 +1,1307 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paylis",
+				"playlistSongContainer"
+			],
+			[
+				"zipFile",
+				"zipFileExtension"
+			],
+			[
+				"zipfIL",
+				"zipFileHandle"
+			],
+			[
+				"conrol",
+				"controlsVisible"
+			],
+			[
+				"SetPV",
+				"SetPVarFloat"
+			],
+			[
+				"FP_Jetpac",
+				"FP_PlayerJetpack"
+			],
+			[
+				"SET",
+				"SetPVarInt"
+			],
+			[
+				"FP_lastP",
+				"FP_LastPositionSet"
+			],
+			[
+				"FP_VehicleJa",
+				"FP_VehicleJackTimer"
+			],
+			[
+				"FP_Vehic",
+				"FP_VehicleJackTimer"
+			],
+			[
+				"SERVER",
+				"FP_SERVER_IP"
+			],
+			[
+				"defi",
+				"defined"
+			],
+			[
+				"FP_VEHI",
+				"FP_VEHICLE_MOD_HACK"
+			],
+			[
+				"galleryIma",
+				"galleryImageCaptionDescription"
+			],
+			[
+				"Sego",
+				"SegoeUIRegular"
+			],
+			[
+				"chatBoxMessa",
+				"chatBoxMessageContents"
+			],
+			[
+				"mysql_Fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_FE",
+				"mysql_fetch_assoc"
+			],
+			[
+				"ssh2_auth",
+				"ssh2_auth_password"
+			],
+			[
+				"GetPlayerV",
+				"GetPlayerVirtualWorld"
+			],
+			[
+				"getpl",
+				"getPlayersName"
+			],
+			[
+				"INVALID",
+				"INVALID_VEHICLE_ID"
+			],
+			[
+				"modIndex",
+				"modificationIndex"
+			],
+			[
+				"COLOR_L",
+				"COLOR_LIGHTBLUE"
+			],
+			[
+				"GetPlayerVeh",
+				"GetPlayerVehicleID"
+			],
+			[
+				"PlayerDama",
+				"PlayerDamageTimer"
+			],
+			[
+				"GetPlayerVehicle",
+				"GetPlayerVehicleSeat"
+			],
+			[
+				"Speed",
+				"SpeedometerBars"
+			],
+			[
+				"ClearA",
+				"ClearAnimations"
+			],
+			[
+				"Direct",
+				"DirectionsNo"
+			],
+			[
+				"Dir",
+				"DirectionsNo"
+			],
+			[
+				"CreateDY",
+				"CreateDynamic3DTextLabel"
+			],
+			[
+				"DIALOG_joB",
+				"DIALOG_JOBOPTIONS"
+			],
+			[
+				"SendC",
+				"SendClientMessage"
+			],
+			[
+				"houses_Create",
+				"houses_CreateIcons"
+			],
+			[
+				"Broad",
+				"BroadcastingText"
+			],
+			[
+				"GetPlayerv",
+				"GetPlayerVehicleID"
+			],
+			[
+				"hExteir",
+				"hExteriorWorld"
+			],
+			[
+				"SetCamer",
+				"SetCameraBehindPlayer"
+			],
+			[
+				"GeTPlay",
+				"GetPlayerCash"
+			],
+			[
+				"SetCam",
+				"SetCameraBehindPlayer"
+			],
+			[
+				"Creat",
+				"CreateDynamicPickup"
+			],
+			[
+				"getPlay",
+				"getPlayersName"
+			],
+			[
+				"tempoar",
+				"temporaryVariable"
+			],
+			[
+				"getPl",
+				"getPlayersName"
+			],
+			[
+				"getPlayer",
+				"getPlayersIP"
+			],
+			[
+				"COLO",
+				"COLOR_WHITE"
+			],
+			[
+				"getpla",
+				"getPlayersIP"
+			],
+			[
+				"CarAlarm",
+				"CarAlarm_Stop"
+			],
+			[
+				"PlayerTex",
+				"PlayerTextDrawDestroy"
+			],
+			[
+				"INVAL",
+				"INVALID_PLAYER_ID"
+			],
+			[
+				"SetVehicle",
+				"SetVehicleZAngle"
+			],
+			[
+				"COLOR_LI",
+				"COLOR_LIGHTBLUE"
+			],
+			[
+				"DIrections",
+				"DirectionsNo"
+			],
+			[
+				"MAX_",
+				"MAX_PLAYERS"
+			],
+			[
+				"PlayerTe",
+				"PlayerTextDrawDestroy"
+			],
+			[
+				"COLOR_LIT",
+				"COLOR_LIGHTPURPLE"
+			],
+			[
+				"DestroyD",
+				"DestroyDynamic3DTextLabel"
+			],
+			[
+				"MAX_DEPAR",
+				"MAX_DEPARTMENTGUNS"
+			],
+			[
+				"DIALOG_DEPREQ",
+				"DIALOG_DEPEDITREQDIV"
+			],
+			[
+				"MAX_DEPARMT",
+				"MAX_DEPARTMENTRANKS"
+			],
+			[
+				"CreateDynamic",
+				"CreateDynamic3DTextLabel"
+			],
+			[
+				"DestroyDynamic",
+				"DestroyDynamic3DTextLabel"
+			],
+			[
+				"MAX_DEP",
+				"MAX_DEPARTMENTS"
+			],
+			[
+				"cache_get_Ro",
+				"cache_get_row_int"
+			],
+			[
+				"DestroyDy",
+				"DestroyDynamicPickup"
+			],
+			[
+				"DestroyDyna",
+				"DestroyDynamic3DTextLabel"
+			],
+			[
+				"doors_Upd",
+				"doors_UpdatePickup"
+			],
+			[
+				"dALlow",
+				"dAllowAdmins"
+			],
+			[
+				"dAllo",
+				"dAllowVehicles"
+			],
+			[
+				"temporary",
+				"temporaryVariable"
+			],
+			[
+				"cache_Get",
+				"cache_get_row_float"
+			],
+			[
+				"Play",
+				"PlayerInfo"
+			],
+			[
+				"commandUs",
+				"commandUsageString"
+			],
+			[
+				"bakg",
+				"background-color"
+			],
+			[
+				"SetPlayer",
+				"SetPlayerSpecialAction"
+			],
+			[
+				"TogglePlay",
+				"TogglePlayerControllable"
+			],
+			[
+				"SetCamera",
+				"SetCameraBehindPlayer"
+			],
+			[
+				"Registration",
+				"RegistrationSecurityCheck"
+			],
+			[
+				"file_",
+				"file_put_contents"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"mysql_c",
+				"mysql_connect"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_Num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_num_",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "configuration/main.php",
+			"settings":
+			{
+				"buffer_size": 2601,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/global.css",
+			"settings":
+			{
+				"buffer_size": 757,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 9205,
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "css/navigation.css",
+			"settings":
+			{
+				"buffer_size": 3338,
+				"line_ending": "Windows",
+				"name": ".navigationBar"
+			}
+		},
+		{
+			"file": "search.php",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "esearch.php",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/search.css",
+			"settings":
+			{
+				"buffer_size": 266,
+				"line_ending": "Windows",
+				"name": ".searchInput"
+			}
+		},
+		{
+			"file": "loadsongs.php",
+			"settings":
+			{
+				"buffer_size": 1069,
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "css/player.css",
+			"settings":
+			{
+				"buffer_size": 4750,
+				"line_ending": "Windows",
+				"name": "#playerArtist, #playerTitle, #playerAlbum"
+			}
+		},
+		{
+			"file": "css/menu.css",
+			"settings":
+			{
+				"buffer_size": 1180,
+				"line_ending": "Windows",
+				"name": ".menuItem"
+			}
+		},
+		{
+			"file": "css/topbar.css",
+			"settings":
+			{
+				"buffer_size": 3416,
+				"line_ending": "Windows",
+				"name": ".topBarContainer"
+			}
+		}
+	],
+	"build_system": "Packages/User/pawn.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"template",
+				"ProjectTreeTemplater: Run"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Main/Desktop/!-projects/roster.php",
+		"/C/xampp/htdocs/mobile/configuration/mysql.php",
+		"/C/xampp/htdocs/Media Center/mobile/index.php",
+		"/C/xampp/htdocs/Media Center/test.php",
+		"/C/xampp/htdocs/Media Center/access.php",
+		"/C/xampp/htdocs/Media Center/delete.php",
+		"/C/xampp/htdocs/update.php",
+		"/C/xampp/htdocs/Media Center/newgroup.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/loadsongs.php",
+		"/C/xampp/htdocs/Media Center/volume.php",
+		"/C/xampp/htdocs/Media Center/liked.php",
+		"/C/xampp/htdocs/Media Center/search.php",
+		"/C/xampp/htdocs/upload.php",
+		"/C/xampp/htdocs/Media Center/css/context.css",
+		"/C/xampp/htdocs/Media Center/js/jquery.jplayer.min.js",
+		"/C/xampp/htdocs/Media Center/css/popup.css",
+		"/C/xampp/htdocs/playlist.php",
+		"/C/xampp/htdocs/css/songs.css",
+		"/C/xampp/htdocs/mediacenter.sublime-project",
+		"/C/xampp/htdocs/Media Center/played.php",
+		"/C/xampp/htdocs/Media Center/css/search.css",
+		"/C/xampp/htdocs/Media Center/allsongs.php",
+		"/C/xampp/htdocs/Media Center/upload.php",
+		"/C/xampp/htdocs/Media Center/playlist.php",
+		"/C/xampp/htdocs/Media Center/configuration/mysql.php",
+		"/C/xampp/htdocs/access.php",
+		"/C/xampp/htdocs/configuration/mysql.php",
+		"/C/xampp/htdocs/css/context.css",
+		"/C/xampp/htdocs/Lawless Boards/postcomment.php",
+		"/C/xampp/htdocs/js/jquery.jplayer.min.js",
+		"/C/xampp/htdocs/test.php",
+		"/C/xampp/htdocs/delete.php",
+		"/C/xampp/htdocs/css/access.css",
+		"/C/xampp/htdocs/configuration/main.php",
+		"/C/Users/Main/Desktop/!-projects/Media Center New/css/songs.css",
+		"/C/xampp/htdocs/css/songs.cs",
+		"/C/Users/Main/Desktop/SAMP/SAMP Blank/filterscripts/position.pwn",
+		"/C/Users/Main/Desktop/SAMP/SAMP Blank/pawno/include/FairPlay.inc",
+		"/C/Users/Main/Desktop/SAMP/SAMP Blank/gamemodes/grandlarc.pwn",
+		"/C/Users/Main/Desktop/SAMP/SAMP Blank/pawno/includes/FairPlay.inc",
+		"/C/Users/Main/AppData/Roaming/Sublime Text 2/Packages/User/pawn.sublime-build",
+		"/C/xampp/htdocs/Lawless Boards/includes/footer.php",
+		"/C/xampp/htdocs/includes/footer.php",
+		"/C/Users/Main/Desktop/SAMP/Virtual Core Roleplay/pawno/include/KickUpdate.inc",
+		"/C/Users/Main/Desktop/!-projects/VCRPSite/index.php",
+		"/C/xampp/htdocs/css/navigation.css",
+		"/C/Users/Main/Desktop/!-projects/!-BASIC FILES/index.php",
+		"/C/Users/Main/Desktop/Other/wow/core/authserver.conf",
+		"/C/Users/Main/Desktop/Other/wow/core/worldserver.conf",
+		"/C/xampp/htdocs/css/global.css",
+		"/C/xampp/htdocs/Convertify/logconversion.php",
+		"/C/xampp/htdocs/Convertify/index.php",
+		"/C/xampp/htdocs/pagescripts/sendmessage.php",
+		"/C/xampp/htdocs/chat.php",
+		"/C/xampp/htdocs/pagescripts/clearchat.php",
+		"/C/xampp/htdocs/pagescripts/leftroom.php",
+		"/C/xampp/htdocs/name.php",
+		"/C/xampp/htdocs/verify.php",
+		"/C/xampp/htdocs/js/jquery.zclip.js",
+		"/C/xampp/htdocs/!-projects/SecureChat/css/global.css",
+		"/C/xampp/htdocs/!-projects/SecureChat/configuration/main.php",
+		"/C/xampp/htdocs/!-projects/SecureChat/chat.php",
+		"/C/xampp/htdocs/!-projects/SecureChat/index.php",
+		"/C/xampp/htdocs/!-projects/SecureChat/includes/footer.php",
+		"/C/xampp/htdocs/includes/rightside.php",
+		"/C/xampp/htdocs/groupmanage.php",
+		"/C/xampp/htdocs/departmentmanage.php",
+		"/C/xampp/htdocs/pagescripts/group.php",
+		"/C/xampp/htdocs/pagescripts/department.php",
+		"/C/xampp/htdocs/pagescripts/removedepartment.php",
+		"/C/xampp/htdocs/css/login.css",
+		"/C/xampp/htdocs/includes/leftside.php",
+		"/C/xampp/htdocs/css/playerlist.css",
+		"/C/xampp/htdocs/login.php",
+		"/C/xampp/htdocs/css/serverstats.css",
+		"/C/xampp/htdocs/css/otherinfo.css",
+		"/C/xampp/htdocs/css/leftside.css",
+		"/C/xampp/htdocs/css/rightside.css",
+		"/C/xampp/htdocs/css/title.css",
+		"/C/xampp/htdocs/includes/navigation.php",
+		"/C/xampp/htdocs/css/console.css",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew/AppData/Local/Temp/fz3temp-1/vcrp.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/anim.pwn",
+		"/C/xampp/htdocs/sendtext.php",
+		"/C/xampp/htdocs/sendmail.php",
+		"/C/xampp/htdocs/penismessage.php",
+		"/C/Users/Andrew/Desktop/svLibraries/physics.inc",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/pawno/pawn.cfg",
+		"/C/Users/Andrew/Desktop/Other/Viligant Roleplay (0.3c)/gamemodes/vgrp.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/test.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/svCoordinates.pwn",
+		"/C/Users/Andrew/Desktop/svLibraries/svAddons.inc",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/pawno/include/KickUpdate.inc",
+		"/C/Users/Andrew/Desktop/mysql.pwn",
+		"/C/Users/Andrew/Desktop/dealwithit.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/pawno/include/mSelection.inc",
+		"/C/Users/Andrew/Desktop/Length Counter/popup.js",
+		"/C/Users/Andrew/Desktop/Length Counter/popup.html",
+		"/C/Users/Andrew/Desktop/Length Counter/manifest.json",
+		"/C/Users/Andrew/Desktop/popup.js",
+		"/C/Users/Andrew/Desktop/popup.html",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/chopper.pwn",
+		"/C/xampp/htdocs/!-projects/virus/forum.php",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/scriptfiles/TD_tutorialRestart.pwn",
+		"/C/Users/Andrew/AppData/Local/Temp/Rar$DI00.322/iTDe.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/velocity.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/velocity",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/scriptfiles/models",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/filterscripts/heli.pwn",
+		"/C/Users/Andrew/Desktop/Virtual Core Roleplay/scriptfiles/genders",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/pawnc.sublime-build",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/pawncompile.sublime-build",
+		"/C/Users/Andrew/Desktop/test.pwn",
+		"/C/Users/Andrew/Desktop/Slope - Copy/filterscripts/TxEditor.pwn",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Andrew/Desktop/SampRconAPI.php",
+		"/C/xampp/htdocs/api/SampRcon.class.php",
+		"/C/xampp/htdocs/info.php",
+		"/C/xampp/htdocs/logout.php",
+		"/C/xampp/htdocs/bans.php",
+		"/C/xampp/htdocs/bugs.php",
+		"/C/xampp/htdocs/control.php",
+		"/C/xampp/htdocs/credits.php",
+		"/C/xampp/htdocs/panel.php",
+		"/C/xampp/htdocs/players.php",
+		"/C/xampp/htdocs/updates.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"performse",
+			"like",
+			"perfr",
+			"performsearch",
+			"songcontainerbinds",
+			".click",
+			"songcontainerbinds",
+			"10px",
+			"flagged",
+			"addplaylist",
+			"id='playlist",
+			".change",
+			".playlistsongcontainer",
+			"playnextsong",
+			"addplaylist",
+			"notification",
+			"#playerfavorite",
+			"playerlike",
+			"$(this).data(\"liked\")",
+			"playerlike",
+			"#playerlik",
+			"playermix",
+			"accordingly",
+			"playlist",
+			"playnext",
+			"playn",
+			"seekbar",
+			"select a g",
+			"add to group",
+			"group",
+			"allsongs",
+			"record",
+			"allsongs",
+			".jplayer",
+			"playedstart",
+			"\"",
+			"mc_volume",
+			"playlistplaysong",
+			"playlistsong",
+			"playnextsong",
+			"setmedia",
+			"clear: ",
+			"clear: true",
+			"getplayervolume()",
+			"m4a",
+			"deleteselected",
+			"confirmbox",
+			"mp3",
+			"m4a",
+			"setmedia",
+			"allsongs",
+			"foreach($albu",
+			"recentlyadded",
+			"event.page",
+			"'>\n",
+			"previoussong",
+			".push",
+			"previoussongs",
+			"$_POST",
+			"data-page='",
+			"data-page=''",
+			": \"black\"",
+			": \"gray\"",
+			": \"white\"",
+			"playnextsong",
+			"#playersongtitle').text($",
+			"#playersongtitle').text(",
+			"#playersongtitle').text",
+			"playersongtitle",
+			"songcontainer(",
+			".load",
+			"allsongs",
+			"nav-allsongs",
+			"playlistsongcontainer",
+			"playNextSong()",
+			"$getid3",
+			"mix",
+			" + getPlayerExtension()",
+			"\" + getPlayerExtension()",
+			"recent.php",
+			"$(getplayerextension())",
+			"getplayerextension",
+			"$(getPlayerExtension())",
+			"getplayerelement(currentPlayer)",
+			"$(currentPlayer)",
+			"playnextsong",
+			"'#playerSong'",
+			"#playerSong",
+			"=====",
+			"mp3",
+			"player",
+			".jplayer",
+			"playertrash",
+			"confirmbox",
+			"id='navpage-gp-",
+			".playlistsongcontainer",
+			"addplaylist",
+			"deletesong",
+			"insert into `songs`",
+			"id='search",
+			"search",
+			"mp3",
+			"droppable",
+			"navigationgroup').each(fun",
+			"navigationgroup'",
+			"songcontainerbinds",
+			".draggable",
+			"id='navpage",
+			"ui-selected",
+			"playnextsong",
+			"playersongpath",
+			".load",
+			"upload.css",
+			"<form ",
+			"$songPath",
+			".load",
+			"114",
+			"delete.php",
+			"playerdelete",
+			"playersongtitle",
+			"playersong",
+			"search.php",
+			"songcontainerbinds",
+			"playercontrols",
+			".selectable",
+			"playlist.php",
+			"<td>",
+			".load"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"playlist",
+			"'",
+			"$songData",
+			"songArtistContainer",
+			"playNextSong(false)",
+			"",
+			"$(\"#playerSong\" + getPlayerExtension())",
+			"$(\"#playerSong\" + getPlayerExtension)",
+			"getPlayerExtension()",
+			"$(getPlayerElement(currentPlayer))",
+			"currentPlayer",
+			"SONG_PATH",
+			"$_COOKIE['mc_playlist']",
+			"",
+			"currentElement",
+			"(currentElement)",
+			"$mData",
+			"$songData",
+			"allElements",
+			"",
+			"div",
+			"if(!GetPVarInt(playerid, \"FP_Immune\"))",
+			"SetPlayerPosFindZ",
+			"SetPlayerVelocity",
+			"SetPlayerPos",
+			"",
+			"'",
+			"113.26",
+			"113.266",
+			"113.2665",
+			"113.2675",
+			"113.265",
+			"113.27",
+			"113.275",
+			"113.28",
+			"113.285",
+			"113.25",
+			"113.2",
+			"113.3",
+			"113.35",
+			"113.5",
+			"114",
+			"113",
+			"115",
+			"120",
+			"",
+			"audio",
+			"chatBoxButton",
+			"•",
+			"require_once",
+			"dataTable",
+			"5A5A5A",
+			"0px 0px 3px 3px",
+			"rightSide",
+			"'",
+			"images/overlay.png",
+			"random(255)",
+			"random(230)",
+			"hands %s",
+			"RoutePlayer",
+			"[rRouteMarker]",
+			"[rExistsPolygon]",
+			"[rRoutePolygon]",
+			"[rRouteLength]",
+			"[rDestination]",
+			"[rCalculatingRoute]",
+			"RouteInformation[",
+			"PlayerDamaged[",
+			"(playerid, ",
+			"PlayerTextDraw",
+			"PlayerDamaged[playerid]",
+			"(playerid, ",
+			"PlayerTextDraw",
+			"CreateTextDraw",
+			"CreatePlayerTextDraw",
+			"SpeedometerBars[playerid][0]",
+			"SpeedometerBars[playerid][1]",
+			"SpeedometerBars[playerid][2]",
+			"SpeedometerBars[playerid][3]",
+			"SpeedometerBars[playerid][4]",
+			"SpeedometerBars[playerid][5]",
+			"SpeedometerBars[playerid][6]",
+			"SpeedometerBars[playerid][7]",
+			"SpeedometerBars[playerid][8]",
+			"SpeedometerBars[playerid][9]",
+			"SpeedometerBars[playerid][10]",
+			"SpeedometerBars[playerid][11]",
+			"SpeedometerSpeed[playerid]",
+			"Speedometer",
+			"cabFare[playerid]",
+			"vehicleHealth = 2000",
+			"OnVehicleCreated(createdVehicle, modelid);",
+			"createdVehicle",
+			"vcrp",
+			"",
+			"craftingPlayer[playerid]",
+			"craftingText[craftingPlayer[playerid]]",
+			"CreateDynamicPickup",
+			"",
+			"objectList[1][nextObject[1]] = CreateDynamicObject(",
+			"); nextObject[1]++;",
+			"); nextObject[0]++;",
+			"objectList[0][nextObject[0]] = CreateObject(",
+			"BroadcastingText",
+			"objectsP",
+			"",
+			"CreateObject",
+			"CreateDynamicObject",
+			"`group`",
+			"GRP",
+			"GroupInviteText",
+			"g",
+			"Group",
+			"groups_",
+			"groupID",
+			"departmentID",
+			"g",
+			"Group",
+			"groupID",
+			"departmentID",
+			"`group`",
+			"Groups",
+			"groupID",
+			"departmentID",
+			"gDivision",
+			"pGroup",
+			"GroupDivision",
+			"pGroup"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "configuration/main.php",
+					"settings":
+					{
+						"buffer_size": 2601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/global.css",
+					"settings":
+					{
+						"buffer_size": 757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 9205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9184,
+								9184
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4200.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/navigation.css",
+					"settings":
+					{
+						"buffer_size": 3338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".navigationBar",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "search.php",
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "esearch.php",
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 349.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/search.css",
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								237
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".searchInput",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "loadsongs.php",
+					"settings":
+					{
+						"buffer_size": 1069,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "css/player.css",
+					"settings":
+					{
+						"buffer_size": 4750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4574,
+								4574
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#playerArtist, #playerTitle, #playerAlbum",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "css/menu.css",
+					"settings":
+					{
+						"buffer_size": 1180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1180,
+								1180
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".menuItem",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "css/topbar.css",
+					"settings":
+					{
+						"buffer_size": 3416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".topBarContainer",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

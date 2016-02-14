@@ -1,0 +1,23 @@
+#contextMenu
+{
+	position: absolute;
+
+	border: 1px solid #323232;
+
+	background: #F1F1F1;
+}
+
+#contextMenu div
+{
+	text-transform: lowercase;
+	text-align: center;
+
+	padding: 8px 50px;
+}
+
+#contextMenu div:hover
+{
+	background: #EAEAEA;
+
+	cursor: pointer;
+}

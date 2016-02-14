@@ -1,0 +1,126 @@
+#playerContainer
+{
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+
+	border-top: 2px solid lightgray;
+
+	background: #E9E9E9;
+
+	width: 100%;
+
+	padding: 15px;
+}
+
+#playerBack, #playerNext, #playerPlay, #playerPause, #playerMix, #playerFavorite, #playerTrash, #playerVolume
+{
+	border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+
+	background: #525252;
+
+	text-align: center;
+
+	color: #E9E9E9;
+
+	padding: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#playerBack:hover, #playerNext:hover, #playerPlay:hover, #playerPause:hover, #playerMix:hover, #playerFavorite:hover, #playerTrash:hover, #playerVolume:hover
+{
+	background: #727272;
+
+	cursor: pointer;
+}
+
+#playerBack, #playerNext
+{
+	font-size: 20px;
+}
+
+#playerPlay, #playerPause, #playerMix, #playerFavorite, #playerTrash, #playerVolume
+{
+	font-size: 24px;
+}
+
+#playerVolumeMax
+{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#playerSongTitle
+{
+	font-size: 15px;
+}
+
+#playerSongArtist, #playerSongAlbum
+{
+	font-size: 13px;
+}
+
+#playerVolumeOuter
+{
+	background: lightgray;
+
+	height: 25px;
+}
+
+#playerVolumeInner
+{
+	background: #43A6DF;
+
+	height: 100%;
+}
+
+#playerSeekBar
+{
+	position: relative;
+	top: 10px;
+	background: lightgray;
+
+	text-align: left;
+
+	width: 525px;
+	height: 30px;
+}
+
+#playerSeekBar:hover
+{
+	cursor: pointer;
+}
+
+#playerSeekBarInner
+{
+	background: rgba(67, 166, 223, 0.5);
+	height: 100%;
+}
+
+#playerVolumeSlider
+{
+	width: 75px;
+}
+
+#playerSeekBarInfo
+{
+	position: relative;
+	bottom: 15px;
+
+	pointer-events: none;
+}
+
+#playerSongTitle
+{
+	display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;  
+}
+
+#playerLike:hover
+{
+	cursor: pointer;
+}
